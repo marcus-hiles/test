@@ -1,2 +1,2 @@
 # test
-testing misc js
+testing misc js and new features
